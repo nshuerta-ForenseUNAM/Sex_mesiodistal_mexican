@@ -1,4 +1,4 @@
-@@# Sex determination by mesiodistal distances in permanent canines from mexican population.
+# Sex determination by mesiodistal distances in permanent canines from mexican population.
 
 
 #### Gil-Chavarría Ivet<sup>1</sup>, Huerta-Pacheco N. Sofia <sup>2</sup>, Loyzance Chantal <sup>1</sup>, Quinto-Sanchez Mirsha <sup>1</sup>
@@ -18,4 +18,9 @@
 - ##### [Result](https://github.com/nshuerta-ForenseUNAM/Sex_mesiodistal_mexican/tree/Result)
 
 ##### Contact: **nshuerta@cienciaforense.facmed.unam.mx**
+
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 
