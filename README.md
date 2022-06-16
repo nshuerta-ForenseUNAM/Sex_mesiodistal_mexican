@@ -13,8 +13,8 @@
 
 ##### In this repository you can find:
 
-- ##### [Data](https://github.com/nshuerta-ForenseUNAM/Missing_person_Mexico/tree/Data) (Original data and filtered data)
-- ##### [Code](https://github.com/nshuerta-ForenseUNAM/Missing_person_Mexico/tree/Code) of several analysis (summary tables and multivariate analysis)
-- ##### [Result](https://github.com/nshuerta-ForenseUNAM/Missing_person_Mexico/tree/Result)
+- ##### [Data](https://github.com/nshuerta-ForenseUNAM/Sex_mesiodistal_mexican/tree/Data) (Original data and filtered data)
+- ##### [Code](https://github.com/nshuerta-ForenseUNAM/Sex_mesiodistal_mexican/tree/Code) of several analysis (summary tables and multivariate analysis)
+- ##### [Result](https://github.com/nshuerta-ForenseUNAM/Sex_mesiodistal_mexican/tree/Result)
 
 ##### Contact: **nshuerta@cienciaforense.facmed.unam.mx**
