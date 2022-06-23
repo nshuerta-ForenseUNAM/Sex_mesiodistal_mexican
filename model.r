@@ -1,4 +1,4 @@
-xlsx<-read_excel(dir,sheet=4,col_names=TRUE)
+xlsx<-read_excel(dir,sheet=1,col_names=TRUE)
 data<-as.data.frame(xlsx)
 head(data)
 
