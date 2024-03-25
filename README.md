@@ -2,8 +2,8 @@
 
 
 #### Gil-Chavarría Ivet<sup>1</sup>, Huerta-Pacheco N. Sofia <sup>2</sup>, Loyzance Chantal <sup>1</sup>, Quinto-Sanchez Mirsha <sup>1</sup>
-###### <sup>1</sup> Forensic Science, School of Medicine, National Autonomous University of Mexico, Mexico City, 04510, México
-###### <sup>2</sup> CONACYT - Forensic Science, Medicine School, National Autonomous University of Mexico, Mexico City, 04510, México
+###### <sup>1</sup> National School of Forensic Sciences, National Autonomous University of Mexico, Mexico City, 04510, México
+###### <sup>2</sup> CONAHCyT - National School of Forensic Sciences, National Autonomous University of Mexico, Mexico City, 04510, México
 
 **Abstract**
 
@@ -17,7 +17,7 @@
 - ##### [Code](https://github.com/nshuerta-ForenseUNAM/Sex_mesiodistal_mexican/tree/Code) of several analysis (summary tables and multivariate analysis)
 - ##### [Result](https://github.com/nshuerta-ForenseUNAM/Sex_mesiodistal_mexican/tree/Result)
 
-##### Contact: **nshuerta@cienciaforense.facmed.unam.mx**
+##### Contact: **nshuerta@enacif.unam.mx**
 
 
 ```diff
