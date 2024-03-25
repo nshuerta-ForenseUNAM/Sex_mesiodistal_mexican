@@ -20,8 +20,5 @@
 ##### Contact: **nshuerta@enacif.unam.mx**
 
 
-```diff
-+ R language
-```
 
 
